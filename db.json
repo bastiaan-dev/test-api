@@ -4,18 +4,20 @@
       "name": "Product A"
     } 
   ],
-  "items" : [
-    {
-            "id" : "unique_reference_id",
-            "created_on" : "2019-11-21T12:51:03+00:00",
-            "changed_on" : "2019-12-21T12:51:03+00:00",
-            "body" : "Title that will be displayed in Prepr",
-            "description" : "Descrtiption text displayed with the title",
-            "image_url" : "https://picsum.photos/200/30",
-            "data" : {
-                "key" : "value"
-            }
-        }
-   ],
-    "total" : 1
+  "content": {
+    "items" : [
+      {
+              "id" : "unique_reference_id",
+              "created_on" : "2019-11-21T12:51:03+00:00",
+              "changed_on" : "2019-12-21T12:51:03+00:00",
+              "body" : "Title that will be displayed in Prepr",
+              "description" : "Descrtiption text displayed with the title",
+              "image_url" : "https://picsum.photos/200/30",
+              "data" : {
+                  "key" : "value"
+              }
+          }
+     ],
+      "total" : 1
+  }
 }
