@@ -14,7 +14,6 @@
             "image_url" : "https://picsum.photos/200/30",
             "data" : {
                 "key" : "value"
-                // This key value array will be returned within the Publication.
             }
         }
    ],
